@@ -4,8 +4,8 @@
 const Ayush = {
   pronouns: "he" | "him",
   major: "🎓 Computer Science Student",
-  year: "📅 Freshman (Class of 2028)",
-  interests: ["💻 Software Development", "📈 Finance & Tech", "🤖 AI", "🔐 Cybersecurity"],
+  year: "📅 Sophmore (Class of 2027)",
+  interests: ["💻 Software Development", "📈 Finance & Tech", "🤖 AI"],
   code: ["🐍 Python", "☕ Java", "💡 C++", "⚡ JavaScript", "🌐 HTML", "🎨 CSS", "🌀 TypeScript"],
   tools: ["⚛️ React", "🌐 Node.js", "🛢️ MongoDB", "🐳 Docker", "🔗 Git"],
   learning: ["📚 Data Structures & Algorithms", "🌍 Full-Stack Development", "🧠 Machine Learning"],
